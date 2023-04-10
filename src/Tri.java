@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class Tri {
 public static void main(String[] args) {
  Scanner input = new Scanner (System.in);
- int i,n ;
+ int i,n ;//Ova e JAVA programa/
  System.out.print("Do brojot: ");
  n = input.nextInt();
  i=1;
